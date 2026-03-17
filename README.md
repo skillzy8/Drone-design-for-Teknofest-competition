@@ -1,4 +1,4 @@
-This is a drone design i made for Teknofest coemption.
+This is a drone design i made for a Teknofest competition.
 <br>
 it was designed to be 3D printed.
 <br>
